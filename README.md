@@ -1,2 +1,2 @@
 # pen
-spin graph map/plan (see wiki)
+spin-arb graph map/plan (see [wiki](https://github.com/spin-arb/pen/wiki))
